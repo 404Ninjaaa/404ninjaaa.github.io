@@ -21,8 +21,7 @@ This blog is a collection of **CTF writeups**, **learning notes**, and **technic
 - 🧪 **Web & Binary Exploitation**
 - 🧰 **Forensics & Threat Hunting**
 
-First i will learn cryptanalysis, this is my first priorpty for then sequencially i will others
-
+I will start by learning cryptanalysis as my first priority, and then I will sequentially learn the others.
 
 ## 📚 Why This Site?
 
@@ -33,3 +32,5 @@ If you're a fellow learner — just like me — you are most welcome here.
 
 > “Update and Upgrade”  
 > _— 404Ninjaaa_
+
+---
