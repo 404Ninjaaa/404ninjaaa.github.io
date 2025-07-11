@@ -2,7 +2,7 @@
 title: Root-me (Cryptanalysis) - Writeup
 time: 2025-07-09 12:32:00
 categories: [cryptography]
-tags: []
+tags: [cryptography]
 image: /assets/posts/root-me/icon.svg
 ---
 
