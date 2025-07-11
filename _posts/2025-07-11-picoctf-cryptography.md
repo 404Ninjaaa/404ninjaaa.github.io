@@ -6,7 +6,7 @@ tags: [cryptography]
 image: /assets/posts/picoctf/icon.svg
 
 ---
-Here, I will upload all the challenges related to cryptography from PicoCTF. Please make them look good.
+Here, I will upload all the challenges related to cryptography from PicoCTF.
 
 # Easy
 
