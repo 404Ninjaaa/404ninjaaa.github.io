@@ -88,7 +88,43 @@ Solution2
 
 ---
 
+## interencdec
+Description
+Can you get the real meaning from this file.
 
+---
+Flag: `picoCTF{caesar_d3cr9pt3d_a47c6d69}`
 
+First cipher
+```
+YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclgyZzBOMm8yYXpZNWZRPT0nCg==
+```
+![5](/assets/posts/picoctf/cryptography/5.png)
+
+Second cipher
+```
+d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrX2g0N2o2azY5fQ==
+```
+![6](/assets/posts/picoctf/cryptography/6.png)
+
+Third Cipher
+```
+wpjvJAM{jhlzhy_k3jy9wa3k_h47j6k69}
+```
+![7](/assets/posts/picoctf/cryptography/7.png)
+
+Caesar cipher decode
+
+![8](/assets/posts/picoctf/cryptography/8.png)
+
+<a href="https://cryptii.com/pipes/caesar-cipher" target="_blank" rel="noopener noreferrer">cryptii</a>
+
+Or
+
+![9](/assets/posts/picoctf/cryptography/9.png)
+
+<a href="https://www.dcode.fr/caesar-cipher" target="_blank" rel="noopener noreferrer">dcode</a>
+
+---
 
 
