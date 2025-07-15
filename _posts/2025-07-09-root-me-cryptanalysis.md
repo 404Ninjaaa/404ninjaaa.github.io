@@ -98,4 +98,22 @@ john --format=mscash2 --wordlist=/usr/share/wordlists/rockyou.txt dcc2.hash
 ihatepasswords   (administrator)
 ```
 
+## Hash - LM
+
+Flag: `ADMIN!!`
+
+Hash
+```
+d3bf255c530633b9aad3b435b51404ee
+```
+
+Solve
+```
+echo "d3bf255c530633b9aad3b435b51404ee" > hashfile.txt
+
+hashcat -m 3000 -a 0 hashfile.txt /usr/share/wordlists/rockyou.txt
+
+d3bf255c530633b9:ADMIN!!
+```
+
 
