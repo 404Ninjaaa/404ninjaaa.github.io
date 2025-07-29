@@ -19,7 +19,7 @@ image: /assets/posts/challenges/1.jpg
  
  **Download**:
  
- [shadowcipher_challenge.zip](https://mega.nz/file/9NggCYyJ#c3YyjfukG27WVx7uvC760_THdj7-BGbKHgQ98OVVs4g)
+ [shadowcipher_challenge.zip](https://mega.nz/file/tcJnnLgB#jTMdz-ybzdlCK0eP0CBJ8WpnVZhrQt7Ui-ctD52rgn8)
  
  ---
  
@@ -27,7 +27,7 @@ image: /assets/posts/challenges/1.jpg
  
  ```
  validator.exe    ← Binary to reverse
- libcore.dll      ← Support library
+ core.exe         ← Support component
  loader.ps1       ← Runs validator.exe
  riddle.txt       ← Riddle puzzle
  README.txt       ← Instructions
