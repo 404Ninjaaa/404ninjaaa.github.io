@@ -53,11 +53,11 @@ image: /assets/posts/challenges/1.jpg
       Reverse this binary to find the flag, then enter it below.
       Enter the flag: [your_flag_here]
       Enter the riddle answer from riddle.txt: [your_answer_here]
-      ✅ Correct! Validation successful.
+      Correct! Validation successful.
       ```
  
  **Tools Recommended**:
- 
+ - [Strings](https://learn.microsoft.com/en-us/sysinternals/downloads/strings) for extracting all human-readable text from a binary file
  - [Ghidra](https://ghidra-sre.org/) for reverse engineering.
  - [x64dbg](https://x64dbg.com/) for debugging.
  - Notepad for riddle.txt.
