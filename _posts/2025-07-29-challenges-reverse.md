@@ -19,7 +19,7 @@ image: /assets/posts/challenges/1.jpg
  
  **Download**:
  
- [shadowcipher_challenge.zip](https://mega.nz/file/oV5AXa7T#Z5gsGR2bo2O8cFJ6uEK1T0HLR5BroYbRjWieZyTZxJo)
+ [shadowcipher_challenge.zip](https://mega.nz/file/9NggCYyJ#c3YyjfukG27WVx7uvC760_THdj7-BGbKHgQ98OVVs4g)
  
  ---
  
